@@ -36,7 +36,6 @@
       $("body").toggleClass("overflow");
     });
 
-
     // SCROLL TOP
     $('.scroll-top').on('click', function (e) {
       $("html, body").animate({
